@@ -1,7 +1,8 @@
 # Crusader Kings 2: Interface Century Gothic - HIP Compatibility
 
 This mini mod makes `Interface Century Gothic` compatible with `HIP - Historical Immersion Project`.
-__Only use this mod if you have enabled HIP!__
+
+__Only use this mod if you have these two mods enabled!__
 
 ## Installation
 * Download the zip package from the release page [here](https://github.com/olympian-mods/crusader_kings_2-interface_century_gothic_hip_compatibility/releases)
